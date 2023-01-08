@@ -208,3 +208,8 @@ input{
 .contact a{
     text-decoration: none;
 }
+
+.duel-icon{
+    display: flex;
+    gap: 40px;
+}
